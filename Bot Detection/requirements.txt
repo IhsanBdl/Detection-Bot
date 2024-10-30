@@ -1,0 +1,7 @@
+pandas
+gdown
+python-dateutil
+pycaret
+matplotlib
+seaborn
+ydata-profiling
